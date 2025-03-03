@@ -28,10 +28,6 @@ This project is a **React-based application** built using **Vite**. It integrate
 - Dynamically displays **limited page numbers** based on total pages.
 - Uses **Lucide-react icons** for navigation controls.
 
-## 🎨 Theme Customization
-- 🌙 **Dark/light mode toggle**.
-- 🔠 **Adjustable font size**.
-
 ## 🖼️ Screenshots
 
 ![image](https://github.com/user-attachments/assets/bc754059-556f-4a87-a042-2c4d3d8dfbdc)
