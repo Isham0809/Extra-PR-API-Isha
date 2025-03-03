@@ -1,4 +1,4 @@
-# 🚀 api-integration-project
+# 🚀 API Project
 
 ## 📌 Overview
 This project is a **React-based application** built using **Vite**. It integrates **Redux** for state management, **React Router** for navigation, and **Axios** for API handling. The UI is styled with **Tailwind CSS** and includes **pagination functionality**.
