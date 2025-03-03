@@ -198,14 +198,6 @@ const MoviePage = () => {
           <p>Try adjusting your search or filters to find what you're looking for.</p>
         </div>
       )}
-      
-      {!loading && !error && !searchQuery && (
-        <div className="bg-red-50 border border-red-200 text-red-700 px-6 py-8 rounded-lg text-center">
-          <Film className="h-12 w-12 mx-auto mb-4 text-red-500" />
-          <h3 className="text-lg font-semibold mb-2">Search for Movies</h3>
-          <p>Enter a movie title in the search bar above to get started.</p>
-        </div>
-      )}
     </div>
   );
 };
